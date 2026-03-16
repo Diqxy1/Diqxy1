@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=180&text=diqxy%20%E2%9C%A6&fontSize=60&fontColor=6ee7b7&animation=twinkling&fontAlignY=45&desc=Ethereal.Hack+%3A%3A+Backend+Phantom+%3A%3A+Fintech&descSize=16&descAlignY=70&descColor=6ee7b7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0f,50:0d3320,100:0a2a15&height=200&section=header&text=diqxy%20%E2%9C%A6&fontSize=50&fontColor=6ee7b7&animation=twinkling&fontAlignY=32&desc=Ethereal.Hack+%3A%3A+Backend+Phantom+%3A%3A+Fintech&descSize=16&descAlignY=55" width="100%"/>
 
 <div>
 <img width="100%" src="./takahashi.gif" align="center"" style="margin-bottom: 20px;" />

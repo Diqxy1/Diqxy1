@@ -1,16 +1,47 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1a0a,80:0a120a,100:0a0a0f&height=200&section=header&text=diqxy%20%E2%9C%A6&fontSize=50&fontColor=6ee7b7&animation=twinkling&fontAlignY=32&desc=Ethereal.Hack+%3A%3A+Backend+Phantom+%3A%3A+Fintech&descSize=16&descAlignY=55" width="100%"/>
 
-<!--
-**Diqxy1/Diqxy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img width="600" src="https://i.imgur.com/BKEOU30.gif" align="right" style="margin-bottom: 20px;" />
+<br/>
 
-Here are some ideas to get you started:
+- Name: **Carlos Eduardo Pinheiro** / **Diqxy1**
+- Location: **Crato, CE — Brazil**
+- Role: **Senior Backend Engineer @ YourSync**
+- Experience: **+5 years** in distributed systems & fintech
+- Domains: **Fintech & Payments**, **Distributed Systems**, **Cloud Architecture**
+- Stack: **Python**, **FastAPI**, **Go**, **Kafka**, **AWS**, **Docker**, **PostgreSQL**
+- Speaker: **SEINFO 2025 — IFCE campus Crato**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diqxy1&layout=donut&bg_color=0a0a0f&border_color=065f46&title_color=6ee7b7&text_color=d1fae5" align="right" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+- 📗 [***Diqxy1/Viktor***](https://github.com/Diqxy1/Viktor) <br/>
+  Fully async open source system built for maximum performance.
+
+- 📘 [***Diqxy1/ts-restful***](https://github.com/Diqxy1/ts-restful) <br/>
+  RESTful API for full stack study with TypeScript.
+
+- 📙 [***Diqxy1/boilerplate-express-multidb***](https://github.com/Diqxy1/boilerplate-express-multidb) <br/>
+  Express boilerplate with multi-database architecture.
+
+- 📒 [***Diqxy1/compression-lib***](https://github.com/Diqxy1/compression-lib) <br/>
+  Simple compression library written in Go for study.
+
+- 📓 [***Diqxy1/discordia***](https://github.com/Diqxy1/discordia) <br/>
+  P2P chat portal for studies in Go.
+
+<br/>
+
+<sub>"The ether doesn't lie. Distributed systems don't forgive design flaws. Build it right — or chaos will find you first." &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; contact : diqxy1@gmail.com</sub>
+
+<br/><br/>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/%23-0a1a12?style=for-the-badge"/></a> <a href="https://github.com/Diqxy1"><img src="https://img.shields.io/badge/GITHUB-0a1a12?style=for-the-badge"/></a> <a href="https://linkedin.com/in/eduardo-pinheiro-565b671a4"><img src="https://img.shields.io/badge/LINKEDIN-0a1a12?style=for-the-badge"/></a> <a href="mailto:diqxy1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a1a12?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-0a1a12?style=for-the-badge"/><img src="https://pbs.twimg.com/media/GZtMpIzaAAMLTPj?format=jpg&name=medium"/></a>
+</p>
+
+</div>

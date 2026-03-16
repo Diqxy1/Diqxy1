@@ -12,7 +12,7 @@
 - Stack: **Python**, **FastAPI**, **Go**, **Kafka**, **AWS**, **Docker**, **PostgreSQL**
 - Speaker: **SEINFO 2025 — IFCE campus Crato**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diqxy1&layout=donut&bg_color=0a0a0f&border_color=065f46&title_color=6ee7b7&text_color=d1fae5" align="right" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diqxy1&layout=donut&bg_color=0a0a0f&border_color=065f46&title_color=6ee7b7&text_color=d1fae5&count_private=true&include_all_commits=true&hide=html,css,dockerfile&langs_count=8&size_weight=0.5&count_weight=0.5" align="right" />
 <br/>
 <br/>
 <br/>
@@ -36,7 +36,14 @@
 
 <br/>
 
-<sub>"The ether doesn't lie. Distributed systems don't forgive design flaws. Build it right — or chaos will find you first." &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; contact : diqxy1@gmail.com</sub>
+</div>
+
+<div align="center">
+<sub><i>"The ether doesn't lie. Distributed systems don't forgive design flaws. Build it right — or chaos will find you first."</i></sub>
+<br/>
+<sub>contact : <a href="mailto:diqxy1@gmail.com">diqxy1@gmail.com</a></sub>
+</div>
+
 
 <br/><br/>
 

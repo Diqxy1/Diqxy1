@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1a0a,80:0a120a,100:0a0a0f&height=200&section=header&text=diqxy%20%E2%9C%A6&fontSize=50&fontColor=6ee7b7&animation=twinkling&fontAlignY=32&desc=Ethereal.Hack+%3A%3A+Backend+Phantom+%3A%3A+Fintech&descSize=16&descAlignY=55" width="100%"/>
 
 <div>
-<img width="600" src="./takahashi.gif" align="right" style="margin-bottom: 20px;" />
+<img width="100%" src="./takahashi.gif" align="center" style="margin-bottom: 20px;" />
 <br/>
 
 - Name: **Carlos Eduardo Pinheiro** / **Diqxy1**
